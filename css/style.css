@@ -279,7 +279,7 @@ h2.logo-text {
     /* padding: .25em 0 .325em; */
     display: block;
     /* margin: 0 auto; */
-    text-shadow: 0 0 80px rgb(37, 37, 37);
+    /* text-shadow: 0 0 80px rgb(37, 37, 37); */
     background: url(../images/animated_text_fill.png) repeat-y;
     -webkit-background-clip: text;
     background-clip: text;
