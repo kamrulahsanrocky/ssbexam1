@@ -280,7 +280,7 @@ h2.logo-text {
     display: block;
     /* margin: 0 auto; */
     text-shadow: 0 0 80px rgb(37, 37, 37);
-    background: url(../image/animated_text_fill.png) repeat-y;
+    background: url(../images/animated_text_fill.png) repeat-y;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: #08080873;
