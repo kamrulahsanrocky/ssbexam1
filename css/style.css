@@ -134,7 +134,7 @@ header ul li {
 }
 
 header ul li a {
-    padding: 20px 40px;
+    padding: 20px 35px;
     color: black;
     /* background-color: black; */
 }
@@ -308,4 +308,15 @@ h2 {
     100% {
         background-position: 100% 50%;
     }
+}
+
+
+/* Hotfixes */
+
+.left-half {
+    margin-left: -20px;
+}
+
+.right-half {
+    margin-left: 80px;
 }
